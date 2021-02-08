@@ -15,7 +15,7 @@ quotes = [
     "Successful men and women keep moving. They make mistakes, but they don’t quit. ―Conrad Hilton",
     "Do not fear failure but rather fear not trying. ―Roy Bennett",
     "Never give up on the fight until you win the belt. ―Israelmore Ayivor",
-    "På tide å prøve høyreaktiv koks? ―Eirik Nordbø",
+    "På tide å prøve ut en ny type koks? ―Eirik Nordbø",
 ];
 
 
