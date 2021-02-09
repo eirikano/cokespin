@@ -16,10 +16,12 @@ quotes = [
     "Do not fear failure but rather fear not trying. ―Roy Bennett",
     "Never give up on the fight until you win the belt. ―Israelmore Ayivor",
     "På tide å prøve ut en ny type koks? ―Eirik Nordbø",
+    "If you’re going through hell, keep going! ―Winston Churchill",
 ];
 
 
 function onclick_button() {
+    randi = Math.round(Math.random())
     quote.innerHTML = ""
     result.innerHTML = "3...";
     setTimeout(function () {
@@ -27,8 +29,6 @@ function onclick_button() {
         setTimeout(function () {
             result.innerHTML = "1...";
             setTimeout(function () {
-
-                randi = Math.round(Math.random())
                 switch (randi) {
                     case 0:
                         result.innerHTML = "Trekk koks!";
